@@ -1,0 +1,29 @@
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #8024d6;
+  color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#projects {
+  background-color: #8024d6;
+  color: aliceblue;
+}
+
+.card {
+  color: black;
+}
+
+.footer {
+  background-color: #8024d6;
+  color: aliceblue;
+}
+
+.type {
+  background-color: #8024d6;
+  color: aliceblue;
+}
+
+section {
+  padding-top: 5rem;
+}
