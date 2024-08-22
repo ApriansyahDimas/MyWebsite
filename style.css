@@ -5,7 +5,12 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
+#about {
+  margin-top: -1px;
+  background-color: white;
+}
 #projects {
+  margin-top: -1px;
   background-color: #8024d6;
   color: aliceblue;
 }
@@ -14,7 +19,13 @@
   color: black;
 }
 
+#contact {
+  margin-top: -1px;
+  background-color: white;
+}
+
 .footer {
+  margin-top: -1px;
   background-color: #8024d6;
   color: aliceblue;
 }
@@ -25,5 +36,5 @@
 }
 
 section {
-  padding-top: 5rem;
+  padding-top: 4rem;
 }
